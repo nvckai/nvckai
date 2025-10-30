@@ -27,4 +27,4 @@
 > [!IMPORTANT]  
 > <a href="https://i.postimg.cc/CKb6QXqD/77b98b42bb1f00c8ed3eaec8359d1c36.png" download>Download my resume</a>
 
-<img width=100% src="https://i.postimg.cc/rsTTH5mg/output-onlinegiftools.gif" alt="footer"/> 
+<img width=100% src="./assets/footer.gif" alt="footer"/> 
