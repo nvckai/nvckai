@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion,rust)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=aws,azure,discord)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,azure,discord,gcp)](https://skillicons.dev)
 
 ### Social Media
 <div> 
