@@ -9,7 +9,7 @@ I am Nick Aidil a developer focused on building high-performance infrastructure,
 Believe in the art of keeping chaos at bay through precision and modular design. My goal is to build reliable, distributed systems that ensure maximum performance and seamless connectivity.
 
 > [!NOTE]
-> Developer and Maintainer for **[discordquest.com](https://discordquest.com)**
+> Currently I'm working developing for **[discordquest.com](https://discordquest.com)**
 
 <img width=400% src="./public/stack.png" alt="header"/> 
 
