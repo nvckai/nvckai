@@ -38,25 +38,6 @@ Believe in the art of keeping chaos at bay through precision and modular design.
 </tr>
 </table>
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nvckai&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=prs_merged,prs_merged_percentage" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nvckai&locale=en&hide_title=false&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&custom_title=Most%20used%20language" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvckai&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ## Lets Connects!~
 
 <div align="center">
