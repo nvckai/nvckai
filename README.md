@@ -2,7 +2,7 @@
 
 # Hello Connections!
 
-<img align="right" src="./public/avatar.png" width=200 alt="SoundRelay logo">
+<img align="right" src="./public/avatar.png" width=150 alt="F">
 
 I am Nick Aidil a developer focused on building high-performance infrastructure, specifically within the Discord ecosystem.
 
