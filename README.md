@@ -38,9 +38,21 @@ Believe in the art of keeping chaos at bay through precision and modular design.
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=nvckai&show_icons=true&hide_border=true&theme=dark&uwu=truefy" height="110" /><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nvckai&hide_border=true&theme=dark&uwu=truefy" height="110" style="margin-left: -2px;" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nvckai&hide_border=true&layout=compact&theme=dark&uwu=truefy" height="110" style="margin-left: -2px;" />
-</p>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td valign="middle">
+        <img src="https://github-readme-stats-fast.vercel.app/api?username=nvckai&show_icons=true&hide_border=true&theme=dark&uwu=truefy" height="110" />
+      </td>
+      <td valign="middle">
+        <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nvckai&hide_border=true&theme=dark&uwu=truefy" height="110" />
+      </td>
+      <td valign="middle">
+        <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nvckai&hide_border=true&layout=compact&theme=dark&uwu=truefy" height="106" style="margin-left: -2px;" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Lets Connects!~
 
