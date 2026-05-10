@@ -38,6 +38,10 @@ Believe in the art of keeping chaos at bay through precision and modular design.
 </tr>
 </table>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=nvckai&show_icons=true&hide_border=true&theme=dark&uwu=truefy" height="142" /><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nvckai&hide_border=true&theme=dark&uwu=truefy" height="142" style="margin-left: -5px;" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nvckai&hide_border=true&layout=compact&theme=dark&uwu=truefy" height="142" style="margin-left: -5px;" />
+</p>
+
 ## Lets Connects!~
 
 <div align="center">
