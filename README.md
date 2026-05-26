@@ -19,7 +19,7 @@ Believe in the art of keeping chaos at bay through precision and modular design.
 <h2>Discord Profile Activity</h2>
 <p>Currently active in the Discord developer ecosystem, focusing on <b>high-performance automation</b> and <b>distributed systems</b>.</p>
 <ul>
-<li><b>Building:</b> Developing the <b>Yuki Suou</b> bot and modular Discord tools using <b>Rust</b>.</li>
+<li><b>Building:</b> Developing the <b>Yuki Suou</b> bot using <b>Rust Language</b>.</li>
 <li><b>Monitoring:</b> Managing <b>discordquest.com</b> to automate and track Discord Quests globally.</li>
 <li><b>Optimizing:</b> Researching low-latency audio relays and high-efficiency voice gateways.</li>
 <li><b>Community:</b> Part of the <b>KH1EV Development</b> and <b>Discord ID</b> team</li>
