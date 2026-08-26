@@ -42,6 +42,8 @@ Believe in the art of keeping chaos at bay through precision and modular design.
   <img src="https://github-readme-stats-fast.vercel.app/api?username=nvckai&show_icons=true&hide_border=true&theme=dark&uwu=truefy" height="110" /><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nvckai&hide_border=true&theme=dark&uwu=truefy" height="110" style="margin-left: -5px;" /><img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nvckai&hide_border=true&layout=compact&theme=dark&uwu=truefy" height="110" style="margin-left: -5px;" />
 </p>
 
+<img width=400% src="./public/verified.png" alt="header"/> 
+
 ## Lets Connects!~
 
 <div align="center">
@@ -56,11 +58,6 @@ Believe in the art of keeping chaos at bay through precision and modular design.
   </a>
 </div>
 
-<div align="center">
-    <a href="https://github.com/nvckai">
-        <img alt="Let's Connects!" src="https://typograssy.deno.dev/api?text=Let's%20Connects!%20%20%20&l0=none&l1=fffaf0&l2=fcd5ce&l3=f497ad&l4=ff85a1&bg=none&frame=none&speed=100">
-    </a>
-</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nvckai&color=ff006e&style=flat-square&label=PROFILE+VIEWS" alt="nvckai" />
